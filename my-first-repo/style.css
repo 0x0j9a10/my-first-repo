@@ -1,0 +1,12 @@
+p{
+    color: navy;
+}
+
+.blog{
+    color: blueviolet;
+    background-color: antiquewhite;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid coral;
+    border-radius: 10px;
+}
